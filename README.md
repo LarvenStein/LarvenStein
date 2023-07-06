@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LarvenStein
 - 👀 I’m interested in Programming Websites and Stuff like That
-- 🌱 I’m currently learning INO/C++
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me via Discord 𝚂𝚝𝚎𝚒𝚗𝙻𝚊𝚛𝚟𝚎#2354
 
 <!---
